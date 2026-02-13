@@ -70,10 +70,6 @@ export default function ValentineCard() {
               </div>
 
               {/* Main text with animation */}
-              <div className="front-text">
-                <h1 className="main-title">A Special Card</h1>
-                <p className="subtitle">For Someone Special</p>
-              </div>
 
               {/* Beating heart */}
               <div className="beating-heart-container">
@@ -82,11 +78,7 @@ export default function ValentineCard() {
               </div>
 
               {/* Interactive hint */}
-              <div className="click-hint">
-                <p>Click to Reveal</p>
-                <div className="arrow-down"></div>
-              </div>
-
+          
               {/* Decorative elements */}
               <div className="front-decoration">
                 <span className="deco-item">💕</span>
